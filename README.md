@@ -5,8 +5,8 @@
 
  To build and push the image use the following command:
 ```
-docker build -t odiovock/akash-azure-devops-agent:0.1.0 .
-docker push odiovock/akash-azure-devops-agent:0.1.0
+docker build -t odiovock/akash-azure-devops-agent:0.1.1 .
+docker push odiovock/akash-azure-devops-agent:0.1.1
 ```
 ## Environment Variables
 
